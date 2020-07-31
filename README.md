@@ -2,6 +2,7 @@
 Bu çalışma, TEKNOFEST Türkçe Doğal Dil İşleme Projesi kapsamında sosyal medya platformlarında (Twitter vb.) anahtar kelime (Korona/Corona vb.) yardımıyla metin analizi Python dilinde yazılım çalışmasıdır.
 
 KOD Girişi Öncesinde Bilgilendirme
+
 Komut İstemi aracılığıyla Python kütüphanelerinin kurulumunu gerçekleştirmek üzere; Başlat / Arama / "cmd" adımları takip edilir.
 "Python3 -m pip install textblob tweepy matplotlib" ile python 3 için textblob kütüphanesi kurulur.
 Ardından apps.twitter sayfasına girilir ve twitter hesabına giriş yapılır.
@@ -9,6 +10,7 @@ Consumer key ve consumer secret anahtarları burada bulunmaktadır. Bu numaralar
 Daha sonra Python programı içerisine kod yazısındaki veriler yazılmaktadır. 
 
 KOD Girişi Sonrasında Bilgilendirme
+
 Kod girişinden sonra python dosyası çalıştırıldığında önce aranacak kelime istenmektedir.
 Bir sonraki adımda kaç tweet taramasının yapılacağı sayı girilmektedir.
 Kelime ve rakam girişi yapılınca program verileri Twitter üzerinden almakta ve dairesel bir görsel ile bize sunmaktadır. 
