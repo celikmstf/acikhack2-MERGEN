@@ -18,4 +18,4 @@ NOT: Bu çalışmanın temel mantığında uluslararası veya ulusal çapta topl
 olduğu değişkenler çerçevesinde metin analizi gerçekleştirmesi ve sonuçlarının istenen oranlara göre listelenmesine olanak sağlamasıdır.
 
 Bu çalışma temel nitelikte metin analiz sonuçlarını üç başlık halinde toplanmak üzerine hazırlanmıştır. Örnek kod yazım mantığıyla başlık sayısı talep edilen sayıda arttırılabilmektedir.
-Kodlar küresel çapta toplum yönlendirmeleri üzerinde etkisi bulunan sosyal medya platformlarından "Twitter" paylaşımlarına göre yapılandırılmıştır. 
+Kodlar küresel çapta toplum yönlendirmeleri üzerinde etkisi bulunan sosyal medya platformlarından "Twitter" paylaşımlarına göre yapılandırılmıştır.
